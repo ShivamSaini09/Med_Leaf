@@ -47,7 +47,7 @@ To use the Med Leaf project, follow these steps:
 Create a file named `.env` in the project root and add the following:
 
 ```dotenv
-AZURE_CUSTOM_VISION_URL=your_custom_vision_url
-AZURE_CUSTOM_VISION_KEY=your_custom_vision_key
+AZURE_CUSTOM_VISION_URL[=your_custom_vision_url](https://violence-prediction.cognitiveservices.azure.com/customvision/v3.0/Prediction/8bbd3e68-2be6-4624-810b-c04c90becd3d/classify/iterations/Leaf%20detection/image)https://violence-prediction.cognitiveservices.azure.com/customvision/v3.0/Prediction/8bbd3e68-2be6-4624-810b-c04c90becd3d/classify/iterations/Leaf%20detection/image
+AZURE_CUSTOM_VISION_KEY=1a6a334e28b743718ccf4f558f7553a4
 ```
 
